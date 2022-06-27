@@ -1,4 +1,7 @@
 Level 2 Autonomous Driving on a Single Device: Diving into the Devils of Openpilot
+
+Please refer to https://github.com/OpenPerceptionX/Openpilot-Deepdive
+
 ---
 
 This repo contains the training, testing, and visualization code for the reimplemented supercombo model.
